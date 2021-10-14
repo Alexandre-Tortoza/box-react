@@ -10,5 +10,5 @@ class Planos extends Component {
         
     }
 }
- 
+
 export default Planos;
